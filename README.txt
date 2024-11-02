@@ -1,1 +1,0 @@
-I'm picturing a notes app where each note is only represented as a box containing the title and an input field. The aim is to fix the clunky UX that I dislike from the google notes app. Notes with a lot of items won't require a long scroll to the bottom, you can just type in the new note from the overview. This also allows you to see more categories at once and do less scrolling.
